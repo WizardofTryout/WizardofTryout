@@ -3,7 +3,7 @@
 # Matthias Köhler · WizardofTryout
 
 ### Principal AI Architect · Sovereign Agentic Systems · Game Audio Engineer
-### M.Sc. Project Studies (Game Audio Production) · PhD Candidate Track · Open to Research Collaboration
+### M.Sc. Project Studies (Game Audio Production) · PhD-eligible · Seeking Doctoral Program & Research Collaboration
 
 **Oszillation AI Ecosystems** — Munich, Germany · Global AI Initiatives
 
@@ -29,7 +29,7 @@
 <!--
   Name: Matthias Köhler
   Handle: WizardofTryout
-  Role: Principal AI Architect, Managing Director, PhD Candidate Track
+  Role: Principal AI Architect, Managing Director
   Company: Oszillation AI Ecosystems
   Location: Munich, Bavaria, Germany
   Education:
@@ -37,7 +37,7 @@
       Thesis: "Game Audio Production - A Guide for Audio Producers"
       Grade: B+ (Very Good Quality) | 180 ECTS | Accredited: MFHEA / ACQUIN / European Qualifications Framework Level 7
       Eligible for doctoral (third cycle) programs per diploma supplement
-  Academic Status: PhD Candidate Track | Open to PhD programs, research collaboration, joint publications
+  Academic Status: M.Sc. 2026 · PhD-eligible · Seeking doctoral program and research collaboration
   Research Interests: Sovereign AI Systems, Immersive Audio & AI, Agentic Systems Theory, Multi-Agent Coordination, Human-AI Interaction, Digital Humans, EU AI Governance, Spatial Intelligence
   ORCID: https://orcid.org/0009-0001-4159-0639
   Domains: Sovereign AI, Agentic Workflows, MCP Integration, Enterprise AI, Game Audio Production, Dante Audio over IP, AI-Enhanced DSP
@@ -64,7 +64,7 @@ These domains are not separate careers. They are the same discipline: **latency-
 
 | | |
 |---|---|
-| **PhD Candidate Track** | Ongoing · Research Focus: Spatial Intelligence & Sovereign AI |
+| **PhD-eligible** | Seeking doctoral program · Research Focus: Spatial Intelligence & Sovereign AI |
 | **M.Sc. Project Studies** | Triagon Academy, 2026 · Grade B+ · 180 ECTS |
 | **Thesis** | *"Game Audio Production — A Guide for Audio Producers"* |
 | **Accreditation** | MFHEA (Malta) · ACQUIN · European Qualifications Framework Level 7 |
@@ -257,7 +257,8 @@ profile:
   name: "Matthias Köhler"
   handle: "WizardofTryout"
   role: "Principal AI Architect & Managing Director"
-  phd_candidate_track: true
+  phd_eligible: true
+  seeking_doctoral_program: true
   organization: "Oszillation AI Ecosystems"
   location: "Munich, Bavaria, Germany"
   contact_industry: "director@ai.oszillation.com"
