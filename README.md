@@ -7,9 +7,7 @@
 
 ---
 
-> **My DNA:** 15+ years in High-Fidelity Audio Engineering and Latency-Critical System Design. I leverage this foundation of absolute precision to build highly reliable, latency-optimized, and sovereign AI swarms. 
-
-Currently leading a 10-person "Seal Team" through the **Anthropic Partner Network (CPN)** & **CCAF certification**.
+> **My DNA:** 25+ years in High-Fidelity Audio Engineering and Latency-Critical System Design. I leverage this foundation of absolute precision to build highly reliable, latency-optimized, and sovereign AI swarms. 
 
 ## 🌐 Vision & Focus: Sovereign Enterprise AI
 
