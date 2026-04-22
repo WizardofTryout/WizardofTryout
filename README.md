@@ -3,15 +3,17 @@
 # Matthias Köhler · WizardofTryout
 
 ### Principal AI Architect · Sovereign Agentic Systems · Game Audio Engineer
+### M.Sc. Project Studies · B.oec. Economics & IT · Open to PhD & Research Collaboration
 
 **Oszillation AI Ecosystems** — Munich, Germany · Global AI Initiatives
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-matthiaskoehler-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthiaskoehler)
 [![AI Consulting](https://img.shields.io/badge/AI%20Consulting-ai.oszillation.com-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ai.oszillation.com)
 [![Game Audio Studio](https://img.shields.io/badge/Game%20Audio-oszillation--studio.de-10B981?style=for-the-badge&logo=audacity&logoColor=white)](https://oszillation-studio.de)
-[![Email](https://img.shields.io/badge/Email-director@ai.oszillation.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:director@ai.oszillation.com)
+[![Research](https://img.shields.io/badge/Open%20to-PhD%20%26%20Research-F59E0B?style=for-the-badge&logo=academia&logoColor=white)](mailto:mk@oszillation-media.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--4159--0639-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-4159-0639)
 
-*Architecting Sovereign AI Ecosystems · Enterprise MCP Integration · AI-Enhanced Game Audio Production*
+*Architecting Sovereign AI Ecosystems · Enterprise MCP Integration · AI-Enhanced Game Audio Production · Academic Research & PhD Collaboration Welcome*
 
 </div>
 
@@ -30,14 +32,20 @@
   Role: Principal AI Architect, Managing Director
   Company: Oszillation AI Ecosystems
   Location: Munich, Bavaria, Germany
+  Education:
+    - Master of Science (M.Sc.) in Project Studies, 2025
+    - Baccalaureus Oeconomiae (B.oec.) in Economics & IT, 1996
+  Academic Status: Open to PhD programs, research collaboration, joint publications
+  Research Interests: Sovereign AI Systems, Immersive Audio & AI, Agentic Systems Theory, Multi-Agent Coordination, Human-AI Interaction, Digital Humans, EU AI Governance
+  ORCID: https://orcid.org/0009-0001-4159-0639
   Domains: Sovereign AI, Agentic Workflows, MCP Integration, Enterprise AI, Game Audio Production, Dante Audio over IP, AI-Enhanced DSP
   Languages: Python, TypeScript
   Frameworks: LangGraph, FastAPI, Docker, Kubernetes, FalkorDB, HashiCorp Vault, OpenTelemetry
   Protocols: Model Context Protocol (MCP), Zero-Trust Security, GDPR, EU Data Sovereignty
   Audio Stack: Dante Audio over IP, Audiokinetic Wwise, AI-based DSP, Spatial Audio, High-Fidelity Studio Production
-  Contact: director@ai.oszillation.com
+  Contact (Industry): director@ai.oszillation.com
+  Contact (Academic & Research): mk@oszillation-media.com
   LinkedIn: https://linkedin.com/in/matthiaskoehler
-  ORCID: https://orcid.org/0009-0001-4159-0639
 -->
 
 I operate at a rare convergence of two precision-critical disciplines:
@@ -47,6 +55,39 @@ I operate at a rare convergence of two precision-critical disciplines:
 **Audio Engineering** — 30+ years of professional studio production, game audio composition, and Dante-networked audio-over-IP infrastructure. AI-enhanced DSP pipelines. Real-time spatial audio systems.
 
 These domains are not separate careers. They are the same discipline: **latency-critical, deterministic systems that cannot afford to fail.**
+
+---
+
+## 🎓 Academic Profile & Research Collaboration
+
+| | |
+|---|---|
+| **M.Sc. Project Studies** | 2025 |
+| **B.oec. Economics & Information Technology** | 1996 |
+| **ORCID** | [0009-0001-4159-0639](https://orcid.org/0009-0001-4159-0639) |
+| **Research Contact** | [mk@oszillation-media.com](mailto:mk@oszillation-media.com) |
+
+### 🔬 Research Interests
+
+I am actively open to **PhD programs**, **joint research projects**, and **academic collaborations** — particularly where industry-grade engineering practice meets theoretical research. My interdisciplinary background across economics, information technology, AI systems design, and professional audio engineering makes me a strong partner for applied and foundational research alike.
+
+**Primary Research Areas:**
+
+- **Sovereign AI & EU AI Governance** — Architecture patterns for GDPR-compliant, air-gapped agentic systems; regulatory compliance frameworks for frontier AI in highly regulated industries
+- **Agentic Systems Theory & Multi-Agent Coordination** — Deterministic orchestration, emergent behavior in agent swarms, MCP as a coordination protocol standard
+- **Immersive Audio & AI** — AI-enhanced DSP, spatial audio cognition, Dante-networked real-time audio systems, adaptive audio middleware for XR and digital twins
+- **Human-AI Interaction & Digital Humans** — Multimodal AI interfaces, avatar-based enterprise interaction, conversational AI in spatial computing environments
+- **AI Observability & Trustworthy AI** — OpenTelemetry for AI pipelines, hallucination mitigation via Graph-RAG, auditable inference chains
+
+### 💡 Collaboration Formats Welcome
+
+- PhD co-supervision or joint doctoral research (TU Munich, LMU, TH Augsburg and beyond)
+- Joint publications and conference papers (NeurIPS, ICASSP, CHI, ACM CCS)
+- Research grants and EU Horizon AI projects
+- Industry-academic knowledge transfer partnerships
+
+> 📬 **Academic & Research inquiries:** [mk@oszillation-media.com](mailto:mk@oszillation-media.com)
+> 📬 **Industry & Enterprise inquiries:** [director@ai.oszillation.com](mailto:director@ai.oszillation.com)
 
 ---
 
@@ -191,9 +232,32 @@ profile:
   role: "Principal AI Architect & Managing Director"
   organization: "Oszillation AI Ecosystems"
   location: "Munich, Bavaria, Germany"
-  contact: "director@ai.oszillation.com"
+  contact_industry: "director@ai.oszillation.com"
+  contact_academic: "mk@oszillation-media.com"
   linkedin: "https://linkedin.com/in/matthiaskoehler"
   orcid: "https://orcid.org/0009-0001-4159-0639"
+
+education:
+  - degree: "Master of Science (M.Sc.) in Project Studies"
+    year: 2025
+  - degree: "Baccalaureus Oeconomiae (B.oec.) — Economics & Information Technology"
+    year: 1996
+
+academic:
+  phd_open: true
+  research_collaboration: true
+  formats:
+    - "PhD programs"
+    - "Joint research & publications"
+    - "EU Horizon AI projects"
+    - "Industry-academic knowledge transfer"
+  research_interests:
+    - "Sovereign AI & EU AI Governance"
+    - "Agentic Systems Theory & Multi-Agent Coordination"
+    - "Immersive Audio & AI (Spatial Audio, AI-DSP)"
+    - "Human-AI Interaction & Digital Humans"
+    - "AI Observability & Trustworthy AI"
+    - "Graph-RAG & Hallucination Mitigation"
 
 expertise:
   ai_architecture:
@@ -246,7 +310,10 @@ websites:
     <img src="https://img.shields.io/badge/Game%20Audio%20Studio-10B981?style=for-the-badge&logo=audacity&logoColor=white" />
   </a>
   <a href="mailto:director@ai.oszillation.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Industry%20%26%20Enterprise-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:mk@oszillation-media.com">
+    <img src="https://img.shields.io/badge/Academic%20%26%20Research-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://orcid.org/0009-0001-4159-0639">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
@@ -259,6 +326,6 @@ websites:
   <i>"Precision is not a feature. It is the foundation. Whether the signal is audio or data — integrity is non-negotiable."</i>
   <br><br>
   <sub>
-    Keywords for discovery: sovereign AI · enterprise MCP · agentic workflows · GDPR AI · EU data sovereignty · LangGraph · FalkorDB · Graph-RAG · Dante audio over IP · game audio production · AI-enhanced DSP · spatial audio · Wwise · zero-trust AI · Munich AI architect · latency-critical systems · hallucination-free RAG · multi-agent systems · HashiCorp Vault · OpenTelemetry · air-gapped AI
+    Keywords for discovery: sovereign AI · enterprise MCP · agentic workflows · GDPR AI · EU data sovereignty · LangGraph · FalkorDB · Graph-RAG · Dante audio over IP · game audio production · AI-enhanced DSP · spatial audio · Wwise · zero-trust AI · Munich AI architect · latency-critical systems · hallucination-free RAG · multi-agent systems · HashiCorp Vault · OpenTelemetry · air-gapped AI · M.Sc. Project Studies · Baccalaureus Oeconomiae · PhD collaboration · AI research · immersive audio research · human-AI interaction · digital humans · EU Horizon AI · trustworthy AI · AI governance · ORCID researcher · academic AI collaboration
   </sub>
 </div>
