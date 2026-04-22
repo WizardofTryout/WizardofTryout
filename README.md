@@ -3,7 +3,7 @@
 # Matthias Köhler · WizardofTryout
 
 ### Principal AI Architect · Sovereign Agentic Systems · Game Audio Engineer
-### M.Sc. Project Studies · B.oec. Economics & IT · Open to PhD & Research Collaboration
+### M.Sc. Project Studies (Game Audio Production) · PhD Candidate Track · Open to Research Collaboration
 
 **Oszillation AI Ecosystems** — Munich, Germany · Global AI Initiatives
 
@@ -29,20 +29,22 @@
 <!--
   Name: Matthias Köhler
   Handle: WizardofTryout
-  Role: Principal AI Architect, Managing Director
+  Role: Principal AI Architect, Managing Director, PhD Candidate Track
   Company: Oszillation AI Ecosystems
   Location: Munich, Bavaria, Germany
   Education:
-    - Master of Science (M.Sc.) in Project Studies, 2025
-    - Baccalaureus Oeconomiae (B.oec.) in Economics & IT, 1996
-  Academic Status: Open to PhD programs, research collaboration, joint publications
-  Research Interests: Sovereign AI Systems, Immersive Audio & AI, Agentic Systems Theory, Multi-Agent Coordination, Human-AI Interaction, Digital Humans, EU AI Governance
+    - Master of Science (M.Sc.) in Project Studies, Triagon Academy, 2026
+      Thesis: "Game Audio Production - A Guide for Audio Producers"
+      Grade: B+ (Very Good Quality) | 180 ECTS | Accredited: MFHEA / ACQUIN / European Qualifications Framework Level 7
+      Eligible for doctoral (third cycle) programs per diploma supplement
+  Academic Status: PhD Candidate Track | Open to PhD programs, research collaboration, joint publications
+  Research Interests: Sovereign AI Systems, Immersive Audio & AI, Agentic Systems Theory, Multi-Agent Coordination, Human-AI Interaction, Digital Humans, EU AI Governance, Spatial Intelligence
   ORCID: https://orcid.org/0009-0001-4159-0639
   Domains: Sovereign AI, Agentic Workflows, MCP Integration, Enterprise AI, Game Audio Production, Dante Audio over IP, AI-Enhanced DSP
   Languages: Python, TypeScript
   Frameworks: LangGraph, FastAPI, Docker, Kubernetes, FalkorDB, HashiCorp Vault, OpenTelemetry
   Protocols: Model Context Protocol (MCP), Zero-Trust Security, GDPR, EU Data Sovereignty
-  Audio Stack: Dante Audio over IP, Audiokinetic Wwise, AI-based DSP, Spatial Audio, High-Fidelity Studio Production
+  Audio Stack: Dante Audio over IP (Level 1/2 certified), Audiokinetic Wwise (certified), AI-based DSP, Spatial Audio, HOFA Audio Engineering
   Contact (Industry): director@ai.oszillation.com
   Contact (Academic & Research): mk@oszillation-media.com
   LinkedIn: https://linkedin.com/in/matthiaskoehler
@@ -62,8 +64,11 @@ These domains are not separate careers. They are the same discipline: **latency-
 
 | | |
 |---|---|
-| **M.Sc. Project Studies** | 2025 |
-| **B.oec. Economics & Information Technology** | 1996 |
+| **PhD Candidate Track** | Ongoing · Research Focus: Spatial Intelligence & Sovereign AI |
+| **M.Sc. Project Studies** | Triagon Academy, 2026 · Grade B+ · 180 ECTS |
+| **Thesis** | *"Game Audio Production — A Guide for Audio Producers"* |
+| **Accreditation** | MFHEA (Malta) · ACQUIN · European Qualifications Framework Level 7 |
+| **Doctoral Eligibility** | Confirmed per diploma supplement (eligible for third-cycle programs) |
 | **ORCID** | [0009-0001-4159-0639](https://orcid.org/0009-0001-4159-0639) |
 | **Research Contact** | [mk@oszillation-media.com](mailto:mk@oszillation-media.com) |
 
@@ -205,19 +210,34 @@ The overlap is deeper than it looks:
 
 ---
 
-## 🏆 Enterprise Use Cases
+## 🚀 AI Lighthouse Projects
 
-**Autonomous Trading Ecosystem**
-Multi-agent trading environment with real-time market data analysis. MCP-standard deterministic execution for volatile financial use cases.
+Beyond the open repositories, these production systems demonstrate the full breadth of applied sovereign AI engineering:
 
-**Interactive Digital Humans**
-Convergence of spatial computing and conversational AI — Unreal Engine rendering with advanced NLP pipelines. Fully autonomous avatars for enterprise deployment.
+**🧠 Always-On Enterprise Memory v2 — Graph-Based Knowledge Infrastructure**
+Production-grade memory layer for AI-assisted workflows. Asynchronous ingestion pipelines and FalkorDB-backed knowledge graphs transform unstructured corporate data into explainable, source-linked intelligence with full provenance tracking. Designed for institutional auditability.
 
-**Always-On Enterprise Memory**
-Production-grade memory layers for AI-assisted workflows. Asynchronous ingestion pipelines and FalkorDB-backed knowledge graphs transforming unstructured corporate data into precise semantic intelligence.
+`FalkorDB` `Graph-RAG` `Async Pipelines` `Knowledge Provenance` `Enterprise Memory`
 
-**AI-Driven Spatial Audio Systems**
-Zero-latency networked audio systems integrating AI-based DSP and Audiokinetic Wwise. Dante-backed infrastructures for immersive, real-time spatial audio rendering in complex digital twin environments.
+**🎬 AvatarLab — Sovereign AI Video & Digital Human Platform**
+Docker-native, fully self-hosted platform for generative AI video and digital human creation. Orchestrates complex media pipelines (ComfyUI, Wav2Lip) entirely within GDPR-compliant, sovereign infrastructure. Zero third-party cloud exposure.
+
+`ComfyUI` `Wav2Lip` `Docker` `Generative Video` `Sovereign Media AI` `Digital Humans`
+
+**🌐 rembr.space — Sovereign Multilingual Knowledge Engine**
+Transcription and LLM-analysis platform built for EU data sovereignty. Orchestrates local AI models to transform global media data into searchable, structured knowledge libraries — designed for institutional and research applications.
+
+`Local LLMs` `Multilingual NLP` `Transcription` `Knowledge Management` `EU Data Sovereignty`
+
+**📈 Autonomous Multi-Agent Trading Ecosystem**
+Sophisticated multi-agent environment integrating real-time market data analysis. MCP-standard deterministic execution pipeline for high-volatility financial use cases, with full observability and audit trails.
+
+`Multi-Agent` `MCP` `Real-Time Data` `Deterministic Execution` `Financial AI`
+
+**🎮 Master Thesis: AI-Driven Game Design & MCP Integration**
+Pioneering research synthesizing AI-generated assets via the Model Context Protocol (MCP) in real-time interactive environments — automating complex game logic and spatial intelligence workflows. Foundation for ongoing PhD research track.
+
+`MCP` `Game AI` `Spatial Intelligence` `Generative Assets` `Real-Time Interaction`
 
 ---
 
@@ -230,6 +250,7 @@ profile:
   name: "Matthias Köhler"
   handle: "WizardofTryout"
   role: "Principal AI Architect & Managing Director"
+  phd_candidate_track: true
   organization: "Oszillation AI Ecosystems"
   location: "Munich, Bavaria, Germany"
   contact_industry: "director@ai.oszillation.com"
@@ -239,25 +260,38 @@ profile:
 
 education:
   - degree: "Master of Science (M.Sc.) in Project Studies"
-    year: 2025
-  - degree: "Baccalaureus Oeconomiae (B.oec.) — Economics & Information Technology"
-    year: 1996
+    institution: "Triagon Academy (MFHEA / ACQUIN accredited)"
+    thesis: "Game Audio Production - A Guide for Audio Producers"
+    grade: "B+ (Very Good Quality)"
+    ects: 180
+    eqf_level: 7
+    year: 2026
+    doctoral_eligible: true
 
 academic:
   phd_open: true
   research_collaboration: true
   formats:
-    - "PhD programs"
+    - "PhD programs (third cycle)"
     - "Joint research & publications"
     - "EU Horizon AI projects"
     - "Industry-academic knowledge transfer"
+    - "Conference papers (NeurIPS, ICASSP, CHI, ACM CCS)"
   research_interests:
     - "Sovereign AI & EU AI Governance"
     - "Agentic Systems Theory & Multi-Agent Coordination"
     - "Immersive Audio & AI (Spatial Audio, AI-DSP)"
     - "Human-AI Interaction & Digital Humans"
+    - "Spatial Intelligence & XR"
     - "AI Observability & Trustworthy AI"
     - "Graph-RAG & Hallucination Mitigation"
+    - "MCP as Coordination Protocol Standard"
+
+certifications:
+  - "Dante Networked Audio Level 1 & 2"
+  - "Audiokinetic Wwise Interactive Music (Game Audio)"
+  - "HOFA Audio Engineering Professional Series (Acoustics, Game Audio, Mastering, Live Sound)"
+  - "EU A1/A2/A3 Drone Pilot (Spatial Data Acquisition)"
 
 expertise:
   ai_architecture:
@@ -275,19 +309,26 @@ expertise:
     - "PII Redaction Pipelines"
   audio_engineering:
     - "Professional Game Audio Production (30+ years)"
-    - "Dante Audio over IP Infrastructure"
+    - "Dante Audio over IP Infrastructure (certified)"
     - "High-Fidelity Studio Production"
     - "AI-Enhanced DSP & Signal Processing"
-    - "Audiokinetic Wwise Integration"
+    - "Audiokinetic Wwise Integration (certified)"
     - "Spatial Audio Design for Games & XR"
     - "Adaptive Audio Middleware"
     - "Real-Time Audio Networking"
     - "Latency-Critical System Design"
 
 projects:
-  - "Sovereign-MCP-Blueprints"
-  - "FalkorDB-Claude-RAG-Architecture"
-  - "AvatarLab-Sovereign-Agent-Swarm"
+  open_source:
+    - "Sovereign-MCP-Blueprints"
+    - "FalkorDB-Claude-RAG-Architecture"
+    - "AvatarLab-Sovereign-Agent-Swarm"
+  lighthouse:
+    - "Always-On Enterprise Memory v2 (Graph-RAG)"
+    - "AvatarLab Sovereign AI Video Platform"
+    - "rembr.space Multilingual Knowledge Engine"
+    - "Autonomous Multi-Agent Trading Ecosystem"
+    - "AI-Driven Game Design & MCP Integration (M.Sc. Thesis)"
 
 websites:
   - "https://ai.oszillation.com"
@@ -326,6 +367,6 @@ websites:
   <i>"Precision is not a feature. It is the foundation. Whether the signal is audio or data — integrity is non-negotiable."</i>
   <br><br>
   <sub>
-    Keywords for discovery: sovereign AI · enterprise MCP · agentic workflows · GDPR AI · EU data sovereignty · LangGraph · FalkorDB · Graph-RAG · Dante audio over IP · game audio production · AI-enhanced DSP · spatial audio · Wwise · zero-trust AI · Munich AI architect · latency-critical systems · hallucination-free RAG · multi-agent systems · HashiCorp Vault · OpenTelemetry · air-gapped AI · M.Sc. Project Studies · Baccalaureus Oeconomiae · PhD collaboration · AI research · immersive audio research · human-AI interaction · digital humans · EU Horizon AI · trustworthy AI · AI governance · ORCID researcher · academic AI collaboration
+    Keywords for discovery: sovereign AI · enterprise MCP · agentic workflows · GDPR AI · EU data sovereignty · LangGraph · FalkorDB · Graph-RAG · Dante audio over IP · game audio production · AI-enhanced DSP · spatial audio · Wwise · zero-trust AI · Munich AI architect · latency-critical systems · hallucination-free RAG · multi-agent systems · HashiCorp Vault · OpenTelemetry · air-gapped AI · M.Sc. Project Studies · Triagon Academy · game audio thesis · PhD candidate · PhD collaboration · AI research · immersive audio research · human-AI interaction · digital humans · EU Horizon AI · trustworthy AI · AI governance · ORCID researcher · academic AI collaboration · Dante certified · Wwise certified · HOFA audio engineering · spatial intelligence · digital twin audio · rembr.space · AvatarLab · knowledge graph · autonomous agents
   </sub>
 </div>
