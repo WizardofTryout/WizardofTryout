@@ -42,7 +42,7 @@
   ORCID: https://orcid.org/0009-0001-4159-0639
   Domains: Sovereign AI, Agentic Workflows, MCP Integration, Enterprise AI, Game Audio Production, Dante Audio over IP, AI-Enhanced DSP
   Languages: Python, TypeScript
-  Frameworks: LangGraph, FastAPI, Docker, Kubernetes, FalkorDB, HashiCorp Vault, OpenTelemetry
+  Frameworks: LangGraph, n8n, FastAPI, Docker, Kubernetes, FalkorDB, HashiCorp Vault, OpenTelemetry
   Protocols: Model Context Protocol (MCP), Zero-Trust Security, GDPR, EU Data Sovereignty
   Audio Stack: Dante Audio over IP (Level 1/2 certified), Audiokinetic Wwise (certified), AI-based DSP, Spatial Audio, HOFA Audio Engineering
   Contact (Industry): director@ai.oszillation.com
@@ -103,8 +103,9 @@ I am actively open to **PhD programs**, **joint research projects**, and **acade
 European enterprises face a paradox: they need the power of frontier AI but cannot expose proprietary data to third-party cloud inference. I architect the resolution — sovereign, on-premise, GDPR-compliant AI ecosystems that deliver full agentic capability without data leaving the perimeter.
 
 **Key Capabilities:**
+- Agentic workflow automation via n8n, LangGraph and custom MCP orchestration
 - Model Context Protocol (MCP) server design with PII redaction and secrets management
-- Multi-agent swarm orchestration via LangGraph
+- Multi-agent swarm orchestration — from low-code n8n flows to complex programmatic agent networks
 - Graph-RAG architectures on FalkorDB for hallucination-free semantic retrieval
 - OpenTelemetry observability and HashiCorp Vault secrets integration
 - EU Data Sovereignty · GDPR Compliance · Zero-Trust Security · Air-Gapped Deployments
@@ -182,12 +183,18 @@ The overlap is deeper than it looks:
 
 ## ⚙️ Full Tech Stack
 
+**Agentic Workflow Automation**
+
+![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-MCP-8B5CF6?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 **AI Architecture & Orchestration**
 
 ![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-cc9a82?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![FalkorDB](https://img.shields.io/badge/FalkorDB-Graph_RAG-10B981?style=for-the-badge)
 
 **Infrastructure & Deployment**
 
@@ -296,8 +303,10 @@ certifications:
 expertise:
   ai_architecture:
     - "Sovereign Agentic Workflows"
+    - "Agentic Workflow Automation (n8n, LangGraph)"
+    - "No-Code / Low-Code AI Automation (n8n)"
     - "Model Context Protocol (MCP) Integration"
-    - "Multi-Agent Systems (LangGraph)"
+    - "Multi-Agent Systems (LangGraph, n8n)"
     - "Graph-RAG / FalkorDB Knowledge Graphs"
     - "Enterprise AI for Regulated Industries"
     - "GDPR-Compliant AI Infrastructure"
@@ -367,6 +376,6 @@ websites:
   <i>"Precision is not a feature. It is the foundation. Whether the signal is audio or data — integrity is non-negotiable."</i>
   <br><br>
   <sub>
-    Keywords for discovery: sovereign AI · enterprise MCP · agentic workflows · GDPR AI · EU data sovereignty · LangGraph · FalkorDB · Graph-RAG · Dante audio over IP · game audio production · AI-enhanced DSP · spatial audio · Wwise · zero-trust AI · Munich AI architect · latency-critical systems · hallucination-free RAG · multi-agent systems · HashiCorp Vault · OpenTelemetry · air-gapped AI · M.Sc. Project Studies · Triagon Academy · game audio thesis · PhD candidate · PhD collaboration · AI research · immersive audio research · human-AI interaction · digital humans · EU Horizon AI · trustworthy AI · AI governance · ORCID researcher · academic AI collaboration · Dante certified · Wwise certified · HOFA audio engineering · spatial intelligence · digital twin audio · rembr.space · AvatarLab · knowledge graph · autonomous agents
+    Keywords for discovery: sovereign AI · enterprise MCP · agentic workflows · n8n automation · n8n AI agents · workflow automation · no-code AI · low-code automation · GDPR AI · EU data sovereignty · LangGraph · FalkorDB · Graph-RAG · Dante audio over IP · game audio production · AI-enhanced DSP · spatial audio · Wwise · zero-trust AI · Munich AI architect · latency-critical systems · hallucination-free RAG · multi-agent systems · HashiCorp Vault · OpenTelemetry · air-gapped AI · M.Sc. Project Studies · Triagon Academy · game audio thesis · PhD candidate · PhD collaboration · AI research · immersive audio research · human-AI interaction · digital humans · EU Horizon AI · trustworthy AI · AI governance · ORCID researcher · academic AI collaboration · Dante certified · Wwise certified · HOFA audio engineering · spatial intelligence · digital twin audio · rembr.space · AvatarLab · knowledge graph · autonomous agents
   </sub>
 </div>
