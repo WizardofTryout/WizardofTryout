@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Matthias Köhler 👋</h1>
-  <h3>Wizard of Tryout @ Oszillation AI Ecosystems | Principal AI Architect</h3>
+  <h3>Mastermind @ Oszillation AI Ecosystems | Principal AI Architect</h3>
   
   <i>Building Sovereign Agentic Workflows and Enterprise MCP Integrations for the highly regulated European market.</i>
 </div>
