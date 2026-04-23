@@ -3,7 +3,7 @@
 # Matthias Köhler M.Sc.
 
 ### Principal AI Architect · Sovereign Agentic Systems · Game Audio Engineer
-### M.Sc. Project Studies (Game Audio Production) · PhD-eligible · Seeking Doctoral Program & Research Collaboration
+### M.Sc. Project Studies (Project Studies) · PhD-eligible · Seeking Doctoral Program & Research Collaboration
 
 **Oszillation AI Ecosystems** — Munich, Germany · Global AI Initiatives
 
