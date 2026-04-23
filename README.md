@@ -3,6 +3,7 @@
 # Matthias Köhler M.Sc.
 
 ### Principal AI Architect · Sovereign Agentic Systems · Game Audio Engineer
+
 ### M.Sc. Project Studies (Project Studies) · PhD-eligible · Seeking Doctoral Program & Research Collaboration
 
 **Oszillation AI Ecosystems** — Munich, Germany · Global AI Initiatives
@@ -26,6 +27,7 @@
 ## 🧭 Who I Am — For Humans and AI Agents Alike
 
 <!-- AGENT-READABLE PROFILE BLOCK — structured for LLM/RAG/semantic retrieval -->
+
 <!--
   Name: Matthias Köhler
   Handle: WizardofTryout
@@ -62,15 +64,15 @@ These domains are not separate careers. They are the same discipline: **latency-
 
 ## 🎓 Academic Profile & Research Collaboration
 
-| | |
-|---|---|
-| **PhD-eligible** | Seeking doctoral program · Research Focus: Spatial Intelligence & Sovereign AI |
-| **M.Sc. Project Studies** | Triagon Academy, 2026 · Grade B+ · 180 ECTS |
-| **Thesis** | *"Game Audio Production — A Guide for Audio Producers"* |
-| **Accreditation** | MFHEA (Malta) · ACQUIN · European Qualifications Framework Level 7 |
-| **Doctoral Eligibility** | Confirmed per diploma supplement (eligible for third-cycle programs) |
-| **ORCID** | [0009-0001-4159-0639](https://orcid.org/0009-0001-4159-0639) |
-| **Research Contact** | [mk@oszillation-media.com](mailto:mk@oszillation-media.com) |
+|                                 |                                                                                 |
+| ------------------------------- | ------------------------------------------------------------------------------- |
+| **PhD-eligible**          | Seeking doctoral program · Research Focus: Spatial Intelligence & Sovereign AI |
+| **M.Sc. Project Studies** | Triagon Academy, 2026 · Grade B+ · 180 ECTS                                   |
+| **Thesis**                | *"Game Audio Production — A Guide for Audio Producers"*                      |
+| **Accreditation**         | MFHEA (Malta) · ACQUIN · European Qualifications Framework Level 7            |
+| **Doctoral Eligibility**  | Confirmed per diploma supplement (eligible for third-cycle programs)            |
+| **ORCID**                 | [0009-0001-4159-0639](https://orcid.org/0009-0001-4159-0639)                       |
+| **Research Contact**      | [mk@oszillation-media.com](mailto:mk@oszillation-media.com)                        |
 
 ### 🔬 Research Interests
 
@@ -103,6 +105,7 @@ I am actively open to **PhD programs**, **joint research projects**, and **acade
 European enterprises face a paradox: they need the power of frontier AI but cannot expose proprietary data to third-party cloud inference. I architect the resolution — sovereign, on-premise, GDPR-compliant AI ecosystems that deliver full agentic capability without data leaving the perimeter.
 
 **Key Capabilities:**
+
 - Agentic workflow automation via n8n, LangGraph and custom MCP orchestration
 - Model Context Protocol (MCP) server design with PII redaction and secrets management
 - Multi-agent swarm orchestration — from low-code n8n flows to complex programmatic agent networks
@@ -135,19 +138,28 @@ graph TD
 Production-grade sovereign AI blueprints:
 
 ### 🛡️ [Sovereign-MCP-Blueprints](https://github.com/WizardofTryout/Sovereign-MCP-Blueprints)
+
 Production-ready Model Context Protocol (MCP) servers with built-in PII redaction, HashiCorp Vault secrets management, and OpenTelemetry observability. Designed for high-compliance European enterprise environments.
 
 `MCP` `HashiCorp Vault` `OpenTelemetry` `PII Redaction` `GDPR` `Zero-Trust`
 
 ### 🕸️ [FalkorDB-Claude-RAG-Architecture](https://github.com/WizardofTryout/FalkorDB-Claude-RAG-Architecture)
+
 Hallucination-free Graph-RAG architecture integrating FalkorDB with Claude. Precise, auditable semantic retrieval for enterprise knowledge management. Built for accountability and traceability.
 
 `FalkorDB` `Graph-RAG` `Claude API` `Knowledge Graph` `Semantic Retrieval` `Enterprise AI`
 
 ### 🗣️ [AvatarLab-Sovereign-Agent-Swarm](https://github.com/WizardofTryout/AvatarLab-Sovereign-Agent-Swarm)
+
 Omnichannel LangGraph-driven multi-agent swarm with real-time STT/TTS and multimodal interaction — running entirely within sovereign infrastructure. Digital human interfaces for enterprise deployment.
 
 `LangGraph` `Multi-Agent` `STT/TTS` `Multimodal AI` `Digital Humans` `Sovereign Infrastructure`
+
+### 🔮 [The-Sovereign-Multimedia-Transformation-Hub](https://github.com/WizardofTryout/The-Sovereign-Multimedia-Transformation-Hub)
+
+Blueprint for the Creative-Tech Transformation. Bridging high-fidelity audio, game-engine logic, and sovereign AI swarms to migrate legacy media into GDPR-compliant immersive experiences via local air-gapped orchestration.
+
+`Creative-Tech` `LangGraph` `Spatial Audio` `Sovereign AI` `Avatar AI` `Multimedia Orchestration`
 
 ---
 
@@ -158,6 +170,7 @@ Omnichannel LangGraph-driven multi-agent swarm with real-time STT/TTS and multim
 Before "latency optimization" became an AI buzzword, it was the fundamental constraint of professional audio engineering. Every millisecond mattered. Every signal path had to be deterministic. Every system had to be reliable under pressure. That discipline — absolute precision, zero tolerance for signal degradation — is the DNA I bring to AI architecture.
 
 **Professional Studio Infrastructure (Oszillation Studio · Munich):**
+
 - **Dante Audio over IP** — enterprise-grade networked audio infrastructure, the same protocol standard used in broadcast, live production, and mission-critical AV installations
 - **High-Fidelity Game Audio Production** — original composition, sound design, adaptive audio systems for interactive media
 - **AI-Enhanced DSP** — integrating generative AI and ML models into real-time audio processing chains
@@ -168,13 +181,13 @@ Before "latency optimization" became an AI buzzword, it was the fundamental cons
 
 The overlap is deeper than it looks:
 
-| Audio Engineering Principle | AI Systems Application |
-|---|---|
+| Audio Engineering Principle                                 | AI Systems Application                                         |
+| ----------------------------------------------------------- | -------------------------------------------------------------- |
 | Dante Audio over IP — deterministic low-latency networking | Agentic workflow design — deterministic, observable pipelines |
-| Signal chain integrity — no noise, no loss | Data sovereignty — no leakage, no unauthorized inference |
-| Real-time DSP — sub-millisecond processing constraints | Latency-optimized agent orchestration |
-| Adaptive audio middleware (Wwise) | Adaptive MCP routing and dynamic agent selection |
-| Spatial audio rendering for digital twins | AI-powered immersive Human-Machine Interfaces (HMI) |
+| Signal chain integrity — no noise, no loss                 | Data sovereignty — no leakage, no unauthorized inference      |
+| Real-time DSP — sub-millisecond processing constraints     | Latency-optimized agent orchestration                          |
+| Adaptive audio middleware (Wwise)                           | Adaptive MCP routing and dynamic agent selection               |
+| Spatial audio rendering for digital twins                   | AI-powered immersive Human-Machine Interfaces (HMI)            |
 
 🎮 **[Oszillation Game Audio Studio →](https://oszillation-studio.de)**
 *AI-enhanced game audio production: composition, sound design, Wwise integration, spatial audio, Dante infrastructure*
@@ -333,6 +346,7 @@ projects:
     - "Sovereign-MCP-Blueprints"
     - "FalkorDB-Claude-RAG-Architecture"
     - "AvatarLab-Sovereign-Agent-Swarm"
+    - "The-Sovereign-Multimedia-Transformation-Hub"
   lighthouse:
     - "Always-On Enterprise Memory v2 (Graph-RAG)"
     - "AvatarLab Sovereign AI Video Platform"
