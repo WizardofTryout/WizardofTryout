@@ -1,6 +1,6 @@
 <div align="center">
 
-# Matthias Köhler · WizardofTryout
+# Matthias Köhler M.Sc.
 
 ### Principal AI Architect · Sovereign Agentic Systems · Game Audio Engineer
 ### M.Sc. Project Studies (Game Audio Production) · PhD-eligible · Seeking Doctoral Program & Research Collaboration
