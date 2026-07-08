@@ -167,6 +167,12 @@ Frontier research implementation based on MIT's Recursive Language Models (RLMs)
 
 `Recursive-LLM` `Temporal-Reasoning` `Sandbox-Security` `Sovereign-AI` `Strategic-Orchestration`
 
+### 🎛️ [salban-mcp-server](https://github.com/WizardofTryout/salban-mcp-server)
+
+Real-time bridge between LLM agents and a browser-based Web Audio API groovebox (the SAL BAN Monolith Engine), giving AI assistants direct, tool-based control over a live synthesizer session — sequencer patterns, synth/mixer/FX parameters, LFO routing, and sample injection — via 14 MCP tools over a local WebSocket connection. Fully sovereign: no cloud round-trip, session state and audio never leave the local machine. Live demo and setup at **[salban.de/mcp-jam.html](https://salban.de/mcp-jam.html)**.
+
+`MCP` `Web Audio API` `Real-Time Audio` `Human-AI Co-Creation` `Sovereign Infrastructure` `Sound Synthesis`
+
 ---
 
 ## 🎙️ Domain II: AI-Enhanced Audio Production & Game Audio Engineering
@@ -197,6 +203,9 @@ The overlap is deeper than it looks:
 
 🎮 **[Oszillation Game Audio Studio →](https://oszillation-studio.de)**
 *AI-enhanced game audio production: composition, sound design, Wwise integration, spatial audio, Dante infrastructure*
+
+🎛️ **[SAL BAN — salban.de →](https://salban.de)**
+*30+ years, 100+ albums, 900+ tracks as electronic music producer SAL BAN. The Monolith Engine — a browser-based Web Audio API groovebox — now features a live MCP bridge ([AI JAM](https://salban.de/mcp-jam.html)), letting LLM agents co-produce music in real time alongside a human artist: the practical, working intersection of my AI architecture and audio engineering disciplines.*
 
 ---
 
@@ -346,6 +355,8 @@ expertise:
     - "Adaptive Audio Middleware"
     - "Real-Time Audio Networking"
     - "Latency-Critical System Design"
+    - "MCP-Controlled Live Synthesis (SAL BAN Monolith Engine)"
+    - "Human-AI Real-Time Music Co-Production"
 
 projects:
   open_source:
@@ -354,16 +365,19 @@ projects:
     - "AvatarLab-Sovereign-Agent-Swarm"
     - "The-Sovereign-Multimedia-Transformation-Hub"
     - "Sovereign-RLM-Consequence-Engine"
+    - "salban-mcp-server"
   lighthouse:
     - "Always-On Enterprise Memory v2 (Graph-RAG)"
     - "AvatarLab Sovereign AI Video Platform"
     - "rembr.space Multilingual Knowledge Engine"
     - "Autonomous Multi-Agent Trading Ecosystem"
     - "AI-Driven Game Design & MCP Integration (M.Sc. Thesis)"
+    - "SAL BAN Monolith Engine — Live MCP-Controlled Groovebox (salban.de)"
 
 websites:
   - "https://ai.oszillation.com"
   - "https://oszillation-studio.de"
+  - "https://salban.de"
   - "https://github.com/WizardofTryout"
 ```
 
@@ -380,6 +394,9 @@ websites:
   </a>
   <a href="https://oszillation-studio.de">
     <img src="https://img.shields.io/badge/Game%20Audio%20Studio-10B981?style=for-the-badge&logo=audacity&logoColor=white" />
+  </a>
+  <a href="https://salban.de">
+    <img src="https://img.shields.io/badge/SAL%20BAN-salban.de-EC4899?style=for-the-badge&logo=soundcloud&logoColor=white" />
   </a>
   <a href="mailto:director@ai.oszillation.com">
     <img src="https://img.shields.io/badge/Industry%20%26%20Enterprise-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -398,6 +415,6 @@ websites:
   <i>"Precision is not a feature. It is the foundation. Whether the signal is audio or data — integrity is non-negotiable."</i>
   <br><br>
   <sub>
-    Keywords for discovery: sovereign AI · enterprise MCP · agentic workflows · n8n automation · n8n AI agents · workflow automation · no-code AI · low-code automation · GDPR AI · EU data sovereignty · LangGraph · FalkorDB · Graph-RAG · Dante audio over IP · game audio production · AI-enhanced DSP · spatial audio · Wwise · zero-trust AI · Munich AI architect · latency-critical systems · hallucination-free RAG · multi-agent systems · HashiCorp Vault · OpenTelemetry · air-gapped AI · M.Sc. Project Studies · Triagon Academy · game audio thesis · PhD candidate · PhD collaboration · AI research · immersive audio research · human-AI interaction · digital humans · EU Horizon AI · trustworthy AI · AI governance · ORCID researcher · academic AI collaboration · Dante certified · Wwise certified · HOFA audio engineering · spatial intelligence · digital twin audio · rembr.space · AvatarLab · knowledge graph · autonomous agents
+    Keywords for discovery: sovereign AI · enterprise MCP · agentic workflows · n8n automation · n8n AI agents · workflow automation · no-code AI · low-code automation · GDPR AI · EU data sovereignty · LangGraph · FalkorDB · Graph-RAG · Dante audio over IP · game audio production · AI-enhanced DSP · spatial audio · Wwise · zero-trust AI · Munich AI architect · latency-critical systems · hallucination-free RAG · multi-agent systems · HashiCorp Vault · OpenTelemetry · air-gapped AI · M.Sc. Project Studies · Triagon Academy · game audio thesis · PhD candidate · PhD collaboration · AI research · immersive audio research · human-AI interaction · digital humans · EU Horizon AI · trustworthy AI · AI governance · ORCID researcher · academic AI collaboration · Dante certified · Wwise certified · HOFA audio engineering · spatial intelligence · digital twin audio · rembr.space · AvatarLab · knowledge graph · autonomous agents · SAL BAN · salban.de · MCP groovebox · AI music co-production · real-time synthesizer control · Model Context Protocol audio · electronic music producer Munich · acid techno · browser-based synthesizer
   </sub>
 </div>
