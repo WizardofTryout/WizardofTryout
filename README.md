@@ -1,22 +1,5 @@
+
 <div align="center">
-
-# Matthias Köhler M.Sc.
-
-### Principal AI Architect · Sovereign Agentic Systems · Game Audio Engineer
-
-### M.Sc. Project Studies (Project Studies) · PhD-eligible · Seeking Doctoral Program & Research Collaboration
-
-**Oszillation AI Ecosystems** — Munich, Germany · Global AI Initiatives
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-matthiaskoehler-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthiaskoehler)
-[![AI Consulting](https://img.shields.io/badge/AI%20Consulting-ai.oszillation.com-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ai.oszillation.com)
-[![Game Audio Studio](https://img.shields.io/badge/Game%20Audio-oszillation--studio.de-10B981?style=for-the-badge&logo=audacity&logoColor=white)](https://oszillation-studio.de)
-[![Research](https://img.shields.io/badge/Open%20to-PhD%20%26%20Research-F59E0B?style=for-the-badge&logo=academia&logoColor=white)](mailto:mk@oszillation-media.com)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--4159--0639-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-4159-0639)
-
-*Architecting Sovereign AI Ecosystems · Enterprise MCP Integration · AI-Enhanced Game Audio Production · Academic Research & PhD Collaboration Welcome*
-
-</div>
 
 ---
 
@@ -71,8 +54,8 @@ These domains are not separate careers. They are the same discipline: **latency-
 | **Thesis**                | *"Game Audio Production — A Guide for Audio Producers"*                      |
 | **Accreditation**         | MFHEA (Malta) · ACQUIN · European Qualifications Framework Level 7            |
 | **Doctoral Eligibility**  | Confirmed per diploma supplement (eligible for third-cycle programs)            |
-| **ORCID**                 | [0009-0001-4159-0639](https://orcid.org/0009-0001-4159-0639)                       |
-| **Research Contact**      | [mk@oszillation-media.com](mailto:mk@oszillation-media.com)                        |
+| **ORCID**                 | [0009-0001-4159-0639](https://orcid.org/0009-0001-4159-0639)                     |
+| **Research Contact**      | [mk@oszillation-media.com](mailto:mk@oszillation-media.com)                      |
 
 ### 🔬 Research Interests
 
@@ -173,6 +156,12 @@ Real-time bridge between LLM agents and a browser-based Web Audio API groovebox 
 
 `MCP` `Web Audio API` `Real-Time Audio` `Human-AI Co-Creation` `Sovereign Infrastructure` `Sound Synthesis`
 
+### 🎚️ [oszillation-mixing-buddy](https://github.com/WizardofTryout/oszillation-mixing-buddy)
+
+Autonomous, hearing-protected AI co-producer for professional DAWs (Apple Logic Pro & Steinberg Nuendo). Features bit-transparent ITU-R BS.1770-4 / EBU R128 audio metrology at 30 fps via JUCE 8 / C++20 ("The Ear"), a Tauri v2 / Rust companion HUD with a 128-band hardware-grade RTA and multi-satellite session registry ("The Hub"), zero-latency native macOS accessibility bridges (`logic-ax-bridge`) with an asymmetric Acoustic Shock Shield ("The Hands"), and a multi-provider Model Context Protocol (MCP Spec 2026) reasoning engine ("The Brain").
+
+`Autonomous AI Co-Producer` `Model Context Protocol (MCP)` `JUCE 8 / C++20` `Tauri v2 / Rust` `Swift AXUIElement` `ITU-R BS.1770-4` `Logic Pro` `Steinberg Nuendo` `Acoustic Shock Shield`
+
 ---
 
 ## 🎙️ Domain II: AI-Enhanced Audio Production & Game Audio Engineering
@@ -220,7 +209,7 @@ The overlap is deeper than it looks:
 
 **AI Architecture & Orchestration**
 
-![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-cc9a82?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic](<https://img.shields.io/badge/Anthropic%20Claude-cc9a82?style=for-the-badge&logo=anthropic&logoColor=white>)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FalkorDB](https://img.shields.io/badge/FalkorDB-Graph_RAG-10B981?style=for-the-badge)
 
@@ -232,7 +221,7 @@ The overlap is deeper than it looks:
 
 **Security, Compliance & Observability**
 
-![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=hashicorp&logoColor=white)
+![HashiCorp Vault](<https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=hashicorp&logoColor=white>)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Zero Trust](https://img.shields.io/badge/Zero_Trust-GDPR_Compliant-DC2626?style=for-the-badge)
 
@@ -366,6 +355,7 @@ projects:
     - "The-Sovereign-Multimedia-Transformation-Hub"
     - "Sovereign-RLM-Consequence-Engine"
     - "salban-mcp-server"
+    - "oszillation-mixing-buddy"
   lighthouse:
     - "Always-On Enterprise Memory v2 (Graph-RAG)"
     - "AvatarLab Sovereign AI Video Platform"
@@ -415,6 +405,4 @@ websites:
   <i>"Precision is not a feature. It is the foundation. Whether the signal is audio or data — integrity is non-negotiable."</i>
   <br><br>
   <sub>
-    Keywords for discovery: sovereign AI · enterprise MCP · agentic workflows · n8n automation · n8n AI agents · workflow automation · no-code AI · low-code automation · GDPR AI · EU data sovereignty · LangGraph · FalkorDB · Graph-RAG · Dante audio over IP · game audio production · AI-enhanced DSP · spatial audio · Wwise · zero-trust AI · Munich AI architect · latency-critical systems · hallucination-free RAG · multi-agent systems · HashiCorp Vault · OpenTelemetry · air-gapped AI · M.Sc. Project Studies · Triagon Academy · game audio thesis · PhD candidate · PhD collaboration · AI research · immersive audio research · human-AI interaction · digital humans · EU Horizon AI · trustworthy AI · AI governance · ORCID researcher · academic AI collaboration · Dante certified · Wwise certified · HOFA audio engineering · spatial intelligence · digital twin audio · rembr.space · AvatarLab · knowledge graph · autonomous agents · SAL BAN · salban.de · MCP groovebox · AI music co-production · real-time synthesizer control · Model Context Protocol audio · electronic music producer Munich · acid techno · browser-based synthesizer
-  </sub>
-</div>
+    Keywords for discovery: sovereign AI · enterprise MCP · agentic workflows · n8n automation · n8n AI agents · workflow automation · no-code AI · low-code automation · GDPR AI · EU data sovereignty · LangGraph · FalkorDB · Graph-RAG · Dante audio over IP · game audio production · AI-enhanced DSP · spatial audio · Wwise · zero-trust AI · Munich AI architect · latency-critical systems · hallucination-free RAG · multi-agent systems · HashiCorp Vault · OpenTelemetry · air-gapped AI · M.Sc. Project Studies · Triagon Academy · game audio thesis · PhD candidate · PhD collaboration · AI research · immersive audio research · human-AI interaction · digital humans · EU Horizon AI · trustworthy AI · AI governance · ORCID researcher · academic AI collaboration · Dante certified · Wwise certified · HOFA audio engineering · spatial intelligence · digital twin audio · rembr.space · AvatarLab · knowledge graph · autonomous agents · SAL BAN · salban.de · MCP groovebox · AI music co-production · real-time synthesizer control · Model Context Protocol audio · electronic music producer Munich · acid techno · browser-based synthesizer · oszillation-mixing-buddy · AI co-producer · DAW automation · ITU-R BS.1770-4 · JUCE 8 · Logic Pro AI · Nuendo AI · acoustic shock shield
